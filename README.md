@@ -15,7 +15,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.instagram.com/ocarlosenrique_?igsh=ZXA1bnpsY2dmMmo3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ocarlosenrique_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/carlosprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="carlosprogrammer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CarlosProgrammmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="carlosprogrammer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
