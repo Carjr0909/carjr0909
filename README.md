@@ -1,11 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Carlos Enrique Domingues Ponteciano Júnior</h1>
 <h3 align="center">Sou um estudante apaixonado pela programação</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carjr0909&label=Profile%20views&color=0e75b6&style=flat" alt="carjr0909" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carjr0909" alt="carjr0909" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 Atualmente estou aprendendo **Python, Java, HTML e CSS**
 
